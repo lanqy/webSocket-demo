@@ -1,2 +1,2 @@
 # webSocket-demo
-A Node.js &amp; WebSocket 
+A WebSocket demo with Node.js &amp; WebSocket 
