@@ -3,10 +3,11 @@ A WebSocket demo with Node.js &amp; WebSocket 
 
 ## Usage
 
-* cd src
+cd src
 
 ```js
 npm install websocket
 ```
-
+```js
 open index.html 
+```
